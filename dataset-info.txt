@@ -1,0 +1,1 @@
+Dataset will be uploaded soon. Contains 12 months of retail sales data with fields like Order Date, Product, Category, Quantity, Revenue, and Profit.
