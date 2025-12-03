@@ -1,1 +1,14 @@
-Dataset will be uploaded soon. Contains 12 months of retail sales data with fields like Order Date, Product, Category, Quantity, Revenue, and Profit.
+Dataset: Sample - Superstore (Tableau)
+Rows: 9,994
+Columns: 21
+Time Period: 2014–2017 (Nearly 4 years of retail order data)
+
+Key Columns:
+- Order Date, Ship Date
+- Category, Sub-Category, Product Name
+- Customer Name, Segment, Region, State, City
+- Sales, Quantity, Discount, Profit
+- Order ID, Row ID, Postal Code
+
+Notes:
+This dataset will be used for a Retail Sales Dashboard project involving data cleaning, sales trend analysis, profit analysis, category performance, and actionable business insights.
